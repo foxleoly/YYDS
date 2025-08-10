@@ -79,7 +79,7 @@ skip-auth-prefixes:
 # 实验性功能
 experimental:
   quic-go-disable-gso: true  
-     
+
 # 管理面板配置
 external-ui-url: https://github.com/Zephyruso/zashboard/releases/latest/download/dist.zip
 external-ui-name: zashboard
